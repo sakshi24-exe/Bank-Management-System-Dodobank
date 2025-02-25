@@ -1,0 +1,261 @@
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Manageagents.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Newaccount.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\admin\source\repos\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\UpdatedBank_Management _System (1).mdf
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\UpdatedBank_Management _System (1)_log.ldf
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Manageagents.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Newaccount.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanGraph.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Users\skg24\OneDrive\Desktop\Banking Management system (3)\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\UpdatedBank_Management _System (1).mdf
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\UpdatedBank_Management _System (1)_log.ldf
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.dashboard.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanGraph.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Manageagents.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Newaccount.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.dashboard.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Manageagents.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll.config
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\FormFactory.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\es-ES\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\nl\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\pt-BR\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.frmInfo.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CopyComplete
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.AfterDemo.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll.config
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\FormFactory.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.xml
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.xml
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.xml
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.xml
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\es-ES\FormFactory.resources.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\nl\FormFactory.resources.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\pt-BR\FormFactory.resources.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.AfterDemo.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.dashboard.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.frmInfo.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Manageagents.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CopyComplete
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\suhai\OneDrive\Desktop\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll.config
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\FormFactory.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\es-ES\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\nl\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\pt-BR\FormFactory.resources.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.AfterDemo.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.createemployeeacc.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.dashboard.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.depositDgv.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.frmInfo.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Users\skg24\OneDrive\Desktop\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CopyComplete
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll.config
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe.config
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.exe
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Banking Management system.pdb
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\FormFactory.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.xml
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Accord.Video.xml
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.xml
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.xml
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\es-ES\FormFactory.resources.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\nl\FormFactory.resources.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\pt-BR\FormFactory.resources.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\Interop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\bin\Debug\AxInterop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.AssemblyReference.cache
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.AfterDemo.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.createemployeeacc.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.dashboard.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Deposit.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.depositDgv.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.frmInfo.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loadingScreen.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Login.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Loan.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.loanapplication.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Mainmenu.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.mainMenu2.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.New_Account_Form.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Properties.Resources.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Transfer.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking_Management_system.Withdraw.resources
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.GenerateResource.cache
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CoreCompileInputs.cache
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.CopyComplete
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Sakshi Files\1Uni Work\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
+C:\Sakshi Files\1Uni Work\year 1\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Interop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\year 1\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\AxInterop.WMPLib.dll
+C:\Sakshi Files\1Uni Work\year 1\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.csproj.ResolveComReference.cache
+C:\Sakshi Files\1Uni Work\year 1\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.exe
+C:\Sakshi Files\1Uni Work\year 1\app dev assignment\BMS 11.04 GOODDD (3)\BMS 11.04 GOODDD\BMS 11.05 (2)\BMS 11.05\BMS 11.04\BMS 10.04\BMS 10.04\Banking Management system\Banking Management system\obj\Debug\Banking Management system.pdb
