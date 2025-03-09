@@ -1,3 +1,2 @@
-To run the application:
 
-Open Banking Management system.sln
+Run **Banking Management system.sln** to open the application
