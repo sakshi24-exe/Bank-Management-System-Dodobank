@@ -20,4 +20,4 @@ A Windows-based banking management application developed using C# and .NET Frame
 **Build and Run**
 
 * Ensure all DataSet files (`.xsd`, `.xss`, `.xsc`) are included
-* Press `F5` or click on `Start` to run the project
+
